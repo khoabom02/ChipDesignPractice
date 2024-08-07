@@ -1,1 +1,2 @@
 # ChipDesignPractice
+hello my friends
